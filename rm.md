@@ -2,11 +2,6 @@
 
 ## Scripts・文字
 
--   **BMP**
-    -   Arabic・阿拉伯文字
-        -   Arabic Extended-B: [U+0870–U+089F]・阿拉伯扩充-B
-    -   Han・汉字
-        -   Kanbun Extended: [U+2FE0–U+2FEF]・汉文扩充
 -   **SMP**
     -   Northern Palaeohispanic・北古西班牙文字
         -   Northern Palaeohispanic: [U+10200–U+1023F]・北古西班牙
@@ -20,8 +15,7 @@
     -   Todhri・托兹里文字
         -   Todhri: [U+105C0–U+105FF]・托兹里
         >   Todhri 为阿尔巴尼亚语 Todhri /ˈtoðri/，依据《阿尔巴尼亚汉译音表》
-    -   Latin・拉丁文字
-        -   Latin Extended-F: [U+10780–U+107BF]・拉丁扩充-F
+
     -   Rejang・雷姜文字
         -   Rejang Extended: [U+107C0–U+107FF]・雷姜扩充
     -   Proto-Sinaitic・原始西奈文字
@@ -94,20 +88,14 @@
         -   Tocharian: [U+11E00–U+11E6F]・吐火罗
     -   Khotanese・于阗文字
         -   Khotanese: [U+11E70–U+11ECF]・于阗
-    -   Kawi・克维文字
-        -   Kawi: [U+11F00–U+11F5F]・克维
-        >   Kawi 来自梵语 कवि (kavi)，依据《印地汉译音表》
-    -   Pallava・帕拉瓦文字
-        -   Pallava: [U+11F60–U+11FAF]・帕拉瓦
+        
     -   Sumero-Akkadian・苏美尔-阿卡德文字
         -   Proto-Cuneiform: [U+12580–U+12DFF]・原始楔形文字
     -   Indus・印度河文字
         -   Indus: [U+12E00–U+12F8F]・印度河文
     -   Cypro-Minoan・塞浦路斯-米诺斯文字
         -   Cypro-Minoan: [U+12F90–U+12FFF]・塞浦路斯-米诺斯
-    -   Egyptian Hieroglyphs・埃及圣书体文字
-        -   Egyptian Hieroglyphs Extended-A: [U+13440–U+143FF]・埃及圣书体扩充-A
-        -   Egyptian Hieroglyphs Extended-B: [U+14680–U+151FF]・埃及圣书体扩充-B
+
     -   Mayan Hieroglyphs・玛雅象形文字
         -   Mayan Hieroglyphs: [U+15500–U+15AFF]・玛雅象形文字
     -   Lampung・楠榜文字
@@ -161,8 +149,6 @@
         -   Buginese Supplement: [U+16EA0–U+16EFF]・布吉增补
     -   Bopomofo・注音字母
         -   Bopomofo Extension-A: [U+16FA0–U+16FAF]・注音字母扩充-A
-    -   Khitan Ideographs・契丹大字？
-        -   Khitan Ideographs: [U+18D8？0–U+195FF]・契丹大字
     -   。
     -   Pau Cin Hau・包钦豪文字
         -   Pau Cin Hau Syllabary: [U+19E00–U+1A2FF]・包钦豪音节文字
@@ -172,11 +158,6 @@
         -   Kaida: [U+1A780–U+1A7FF]・假屋
         >   Kaida 来自「カイダ」，来自「カリヤ」（仮屋）。
     -   。
-    -   。
-    -   Shuishu Logograms・水书语素文字？
-        -   Shuishu Logograms: [U+1B300–U+1B5FF。]・水书语素文字
-    -   Lisu Syllabic・傈僳音节文字？
-        -   Lisu Syllabic: [U+1B600–U+1B9FF。]・傈僳音节文字
     -   Proto-Elamite・原始埃兰文字
         -   Proto-Elamite: [U+1BD00–U+1C37F]・原始埃兰
     -   Linear Elamite・线形埃兰文字
@@ -209,19 +190,7 @@
         -   Brusha: [U+1E5A0–U+1E5CF]・勃律
     -   Beria・贝里亚文字
         -   Beria: [U+1E5D0–U+1E5FF]・贝里亚
--   **TIP**
-    -   Small Seal・小篆？
-        -   Small Seal: [U+31400–U+342FF。]・小篆
-    -   Oracle Bone・甲骨文字？
-        -   Oracle Bone: [U+34400–U+35BFF。]・甲骨
--   **Not the Roadmap**
-    -   Klingon pIQaD・克林贡皮卡德文字
-    -   Aiha・艾哈文字
-    -   Jindai・神代文字
-    -   Sarati・萨拉蒂文字
-    -   Aymara・艾马拉文字
-    -   Paucartambo・保卡坦博文字
-    -   Tărtăria・特尔特里亚文字
+
 
 ## Notational Systems・记号系统
 
@@ -236,10 +205,8 @@
     -   Flute・笛谱
         -   Flute: [U+1D250–U+1D26F]・笛谱
     -   Pipa・琵琶谱
-        -   Pipa: [U+1D280–U+1D2AF]・琵琶谱
-    -   Jianzi Musical Notation・减字音乐记号
-        -   Jianzi Format Controls: [U+1DAE0–U+1DAFF]・减字格式控制符
-        -   Jianzi Musical Notation: [U+1DB00–U+1DC8F]・减字音乐记号
+        -   Pipa: [U+1D280–U+1D2AF]・琵琶
+
 
 ## Symbols・符号
 
