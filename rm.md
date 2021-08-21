@@ -96,7 +96,7 @@
     -   Cypro-Minoan・塞浦路斯-米诺斯文字
         -   Cypro-Minoan: [U+12F90–U+12FFF]・塞浦路斯-米诺斯
 
-。
+
     -   Lampung・楠榜文字
         -   Lampung: [U+15B00–U+15B3F]・楠榜
     -   Kerinci・葛林芝文字
@@ -104,14 +104,14 @@
     -   Mandombe・曼东贝文字
         -   Mandombe: [U+15B80–U+15FFF]・曼东贝
         >   Mandombe 即 Mandombé，依据《班图汉译音表》
-。
+
     -   Khema・凯玛文字
         -   Khema: [U+16100–U+1613F]・凯玛
         >   Khema 来自古隆语 Khema [kʰemaː]，依据《印地汉译音表》译作「凯玛」。又 Khema 可能来源于人名 Khemā，按《欧亚备要・尼雅遗址与于阗史研究》译作「支摩」，待考。
     -   Khe Prih・凯普里赫文字
         -   Khe Prih: [U+16140–U+1617F]・凯普里赫
         >   Khe Prih 来自古隆语 Khe prih [kʰe prih]，依据《印地汉译音表》
-  。
+
     -   Woleai・沃莱艾文字
         -   Woleai: [U+16B90–U+16BFF]・沃莱艾
     -   Kpelle・克佩莱文字
