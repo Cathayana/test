@@ -9,9 +9,7 @@
         -   Southern Palaeohispanic: [U+10240–U+1027F]・南古西班牙
     -   Shavian・萧伯纳文字
         -   Shavian Quikscript Extensions: [U+103E0–U+103FF]・萧伯纳速写扩充
-    -   Vithkuqi・维斯库奇文字
-        -   Vithkuqi: [U+10570–U+105BF]・维斯库奇
-        >   Vithkuqi 为阿尔巴尼亚语 Vithkuqi [viθkucçi]，依据《阿尔巴尼亚汉译音表》
+
     -   Todhri・托兹里文字
         -   Todhri: [U+105C0–U+105FF]・托兹里
         >   Todhri 为阿尔巴尼亚语 Todhri /ˈtoðri/，依据《阿尔巴尼亚汉译音表》
@@ -39,8 +37,7 @@
         >   Garay 为沃洛夫语 Garay，依据《沃洛夫汉译音表》
     -   Byblos・比布鲁斯文字
         -   Byblos: [U+10D90–U+10DFF]・比布鲁斯
-    -   Old Uyghur・回鹘文字
-        -   Old Uyghur: [U+10F70–U+10FAF]・回鹘
+
     -   Landa・伦达文字
         -   Landa: [U+11250–U+1127F]・伦达
         >   Landa 来自旁遮普语 Laṇḍā，依据《印地汉译音表》
@@ -187,8 +184,7 @@
 ## Notational Systems・记号系统
 
 -   **SMP**
-    -   Moon・穆恩盲文
-        -   Moon: [U+161A0–U+161FF]・穆恩盲文
+
     -   Blissymbols・布利斯符号
         -   Blissymbols: [U+16200–U+1677F]・布利斯符号
     -   Pitman Shorthand・皮特曼速记
