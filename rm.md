@@ -3,10 +3,7 @@
 ## Scripts・文字
 
 -   **SMP**
-    -   Northern Palaeohispanic・北古西班牙文字
-        -   Northern Palaeohispanic: [U+10200–U+1023F]・北古西班牙
-    -   Southern Palaeohispanic・南古西班牙文字
-        -   Southern Palaeohispanic: [U+10240–U+1027F]・南古西班牙
+
     -   Shavian・萧伯纳文字
         -   Shavian Quikscript Extensions: [U+103E0–U+103FF]・萧伯纳速写扩充
 
@@ -47,18 +44,13 @@
     -   Tani・塔尼文字
         -   Tani: [U+114E0–U+114FF]・塔尼
         >   Tani 来自塔尼语 Taanei [tani]，依据《印地汉译音表》
-    -   Ranjana・兰札文字
-        -   Ranjana: [U+11500–U+1157F]・兰札
+
     -   Jenticha・杰蒂切文字
         -   Jenticha: [U+116D0–U+116FF]・杰蒂切
         >   Jenticha 来自松瓦尔语 Jẽtica，依据《印地汉译音表》
     -   Ahom・阿含文字
         -   Ahom Extension: [U+11740–U+1174F]・阿含扩充
-    -   Zou・藻文字
-        -   Zou: [U+11750–U+117AF]・藻文
-    -   Pyu・彪文字 
-        -   Pyu: [U+117B0–U+117FF]・彪文
-        >   Pyu 来自缅甸语 ပျူ [pjù]，依据《缅甸汉译音表》
+  
     -   Sirmauri・斯尔毛文字
         -   Sirmauri: [U+11850–U+1188F]・斯尔毛
     -   Vatteluttu・沃泰卢图文字
@@ -81,23 +73,7 @@
     -   Leke・莱革文字
         -   Leke: [U+11DB0–U+11DEF]・莱革
         >   Leke 来源待考，暂依据《泰汉译音表》
-    -   Tocharian・吐火罗文字
-        -   Tocharian: [U+11E00–U+11E6F]・吐火罗
-    -   Khotanese・于阗文字
-        -   Khotanese: [U+11E70–U+11ECF]・于阗
-        
-    -   Sumero-Akkadian・苏美尔-阿卡德文字
-        -   Proto-Cuneiform: [U+12580–U+12DFF]・原始楔形文字
-    -   Indus・印度河文字
-        -   Indus: [U+12E00–U+12F8F]・印度河文
-    -   Cypro-Minoan・塞浦路斯-米诺斯文字
-        -   Cypro-Minoan: [U+12F90–U+12FFF]・塞浦路斯-米诺斯
-
-
-    -   Lampung・楠榜文字
-        -   Lampung: [U+15B00–U+15B3F]・楠榜
-    -   Kerinci・葛林芝文字
-        -   Kerinci: [U+15B40–U+15B6F]・葛林芝
+         
     -   Mandombe・曼东贝文字
         -   Mandombe: [U+15B80–U+15FFF]・曼东贝
         >   Mandombe 即 Mandombé，依据《班图汉译音表》
@@ -139,21 +115,15 @@
     -   Bopomofo・注音字母
         -   Bopomofo Extension-A: [U+16FA0–U+16FAF]・注音字母扩充-A
     -   。
-    -   Pau Cin Hau・包钦豪文字
-        -   Pau Cin Hau Syllabary: [U+19E00–U+1A2FF]・包钦豪音节文字
+
     -   Eskaya・埃斯卡亚文字
         -   Eskaya: [U+1A300–U+1A75F]・埃斯卡亚
-    -   Kaida・假屋文字
-        -   Kaida: [U+1A780–U+1A7FF]・假屋
-        >   Kaida 来自「カイダ」，来自「カリヤ」（仮屋）。
-    -   。
+
     -   Proto-Elamite・原始埃兰文字
         -   Proto-Elamite: [U+1BD00–U+1C37F]・原始埃兰
     -   Linear Elamite・线形埃兰文字
         -   Linear Elamite: [U+1C380–U+1C3CF]・线形埃兰
-    -   Rongorongo・罗鄂罗鄂文字
-        -   Rongorongo: [U+1CA80–U+1CDBF]・罗鄂罗鄂
-        >   Rongorongo 来自拉帕努伊语 ro·ngo·ro·ngo，依据《高棉汉译音表》
+  
     -   Chola・朱罗文字
         -   Chola: [U+1E030–U+1E08F]・朱罗
     -   Chalukya・遮娄其文字
@@ -185,15 +155,8 @@
 
 -   **SMP**
 
-    -   Blissymbols・布利斯符号
-        -   Blissymbols: [U+16200–U+1677F]・布利斯符号
     -   Pitman Shorthand・皮特曼速记
         -   Pitman Shorthand: [U+1BCB0–U+1BCFF]・皮特曼速记
-    -   。
-    -   Flute・笛谱
-        -   Flute: [U+1D250–U+1D26F]・笛谱
-    -   Pipa・琵琶谱
-        -   Pipa: [U+1D280–U+1D2AF]・琵琶
 
 
 ## Symbols・符号
@@ -202,8 +165,3 @@
     -   Letterlike Symbols・类字符号
         -   Mathematical Alphanumeric Symbols Supplement: [U+1D380–U+1D3FF]・数学字母数字符号增补
         -   Arabic Supplemental Symbols: [U+1EF00–U+1EF3F]・阿拉伯增补符号
-    -   Numerals・数字
-        -   Kaktovik Numerals: [U+1D2C0–U+1D2DF]・卡克托维克数字
-        -   Persian Siyaq Numbers: [U+1EC00–U+1EC6F]・波斯帐目数字
-        -   Diwani Siyaq Numbers: [U+1ECC0–U+1ECFF]・迪万尼帐目数字
-        >   「迪万（Diwan）」指莫卧儿时期民政总长官，「迪万尼（diwani）」指民事或税收大臣。
